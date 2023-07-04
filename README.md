@@ -1,0 +1,1 @@
+This code is a simple Employee Management System project in C. It allows the user to add, list, modify, delete, and search for employee records. The code also supports saving and loading the employee records to a file.
